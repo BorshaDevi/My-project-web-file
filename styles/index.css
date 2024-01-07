@@ -5,3 +5,8 @@ nav{
     display:flex;
     
 }
+.nav-size{
+    font-size:45px;
+    color:black;
+    font-weight:800;
+}
