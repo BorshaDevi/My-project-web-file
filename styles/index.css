@@ -13,3 +13,6 @@ nav{
     color:black;
     font-weight:800;
 }
+ul {
+    display:flex;
+}
