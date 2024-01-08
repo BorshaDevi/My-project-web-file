@@ -44,3 +44,7 @@ ul li a{
     padding:30px 20px 30px 150px;
     display:flex;
 }
+.banner img{
+    width:500px;
+    height:600px;
+}
