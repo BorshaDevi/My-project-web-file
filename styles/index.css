@@ -6,7 +6,12 @@ body{
 }
 nav{
     display:flex;
+    align-items: center;
     
+}
+nav>ul{
+    display: flex;
+    align-items: center;
 }
 .nav-size{
     font-size:45px;
@@ -27,4 +32,6 @@ ul li a{
 .btn-class{
     border-radius:5px;
     background-color: orange;
+    border:none;
+    padding:15px 15px 15px 18px;
 }
