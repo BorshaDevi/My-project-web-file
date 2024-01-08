@@ -51,14 +51,20 @@ ul li a{
 }
 .banner img{
     width:500px;
-    height:600px;
+    height:500px;
 }
 .banner-greeting{
+  font-size: 40px;
+  color:black;
+  margin-bottom:0;
 
 }
 .banner-heading{
-
+    margin-top:5px;
+    font-size: 80px;
+    font-weight: 500;
+    margin-bottom: 20px;
 }
 .banner-description{
-    
+
 }
